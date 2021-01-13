@@ -78,6 +78,7 @@ public class SplashScreenActivity extends BaseActivity {
 		i.addFlags(FLAG_ACTIVITY_NEW_TASK | FLAG_ACTIVITY_CLEAR_TOP);
 		startActivity(i);
 		//coment
+		//2
 	}
 
 	private void setPreferencesDefaults() {
